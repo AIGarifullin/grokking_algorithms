@@ -27,4 +27,5 @@ def my_set_covering(states_needed, stations):
             return None
     return final_stations
 
+
 print(my_set_covering(states_needed, stations))
